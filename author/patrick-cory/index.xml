@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick, Cory on Baseballmapper</title>
+    <link>http://www.baseballmapper.com/author/patrick-cory/</link>
+    <description>Recent content in Patrick, Cory on Baseballmapper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.baseballmapper.com/author/patrick-cory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Map of Baseball During COVID-19</title>
+      <link>http://www.baseballmapper.com/covid/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.baseballmapper.com/covid/</guid>
+      <description>Baseball is on in 2020!
+The map below shows the teams currently playing baseball during the COVID-19 pandemic in 2020.</description>
+    </item>
+    
+    <item>
+      <title>The 2020 EPIC FATHER&#39;S DAY WISH LIST</title>
+      <link>http://www.baseballmapper.com/blog/fathers-day-2020-wish-list/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.baseballmapper.com/blog/fathers-day-2020-wish-list/</guid>
+      <description>Two weeks. You have two weeks to find something for Father&amp;rsquo;s day.</description>
+    </item>
+    
+  </channel>
+</rss>
